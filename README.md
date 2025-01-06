@@ -1,1 +1,1 @@
-# preyash.github.io
+# preyash.io
