@@ -38,10 +38,6 @@ $(document).ready(function () {
 	})
 });
 
-document.querySelector('.more-button').addEventListener('click', function () {
-	document.querySelector('.list-container').classList.toggle('menu-active');
-});
-
 $(document).ready(function () {
 	var progressPath = document.querySelector('.progress-wrap path');
 	var pathLength = progressPath.getTotalLength();
